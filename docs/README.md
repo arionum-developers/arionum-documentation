@@ -19,6 +19,9 @@ There are also accounts on the following sites:
 - [Twitter](https://twitter.com/ArionumCrypto)
 - [Reddit](https://reddit.com/r/Arionum)
 - [BitcoinTalk][bitcointalk]
+- [Facebook](https://www.facebook.com/ArionumCryptocurrency)
+- [Youtube](https://www.youtube.com/channel/UCpv7bnb6MMOCINTxdXkd_tQ/)
+- [Steemit](https://steemit.com/@arionum)
 
 ## Market Tracking
 
@@ -27,5 +30,7 @@ There are also accounts on the following sites:
 - [Coinlib](https://coinlib.io/coin/ARO/Arionum)
 - [CryptoSlate](https://cryptoslate.com/coins/arionum)
 - [ArioChain](https://www.ariochain.info)
+- [Coinpaprika](https://coinpaprika.com/coin/aro-arionum)
+- [CoinGecko](https://www.coingecko.com/en/coins/arionum)
 
 [bitcointalk]: https://bitcointalk.org/index.php?topic=2710248
